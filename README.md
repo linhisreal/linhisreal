@@ -65,10 +65,7 @@ I'm a passionate developer who enjoys working on a wide range of technologies—
 ---
 
 ## 📫 Let’s Connect
-- [Personal Website](#)  
-- [LinkedIn](#)  
-- [Twitter](#)  
-
+- Soo !
 Feel free to reach out or check out my projects and contributions. I'm always looking to learn and collaborate on innovative projects.
 
 ---
