@@ -1,22 +1,38 @@
-# Hi there 👋 I'm linhisreal
+# Hi there! 👋 I'm linhisreal
 
-<!--
-Quick Tip: You can edit this README directly through your browser by clicking the edit (✏️) button in the top-right corner!
--->
+## 💻 Technologies & Tools
 
-## About Me
-- 🔭 I'm currently working on [Your Current Project]
-- 🌱 I'm currently learning [Technologies/Skills]
-- 👯 I'm looking to collaborate on [Interesting Projects]
-- 💬 Ask me about [Your Expertise]
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 
-## Technologies & Tools
-![](https://img.shields.io/badge/Code-Language1-informational?style=flat&logo=language1&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Language2-informational?style=flat&logo=language2&logoColor=white&color=2bbc8a)
+### Runtime & Frameworks
+![Deno](https://img.shields.io/badge/Deno-000000?style=flat-square&logo=deno&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=linhisreal&show_icons=true&theme=radical)
+### Editor
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+## 📊 GitHub Stats
 
-<!-- Optional: Add a visitor counter -->
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=linhisreal.linhisreal)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=linhisreal&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=linhisreal&layout=compact&theme=tokyonight)
+
+## 🚀 What I'm Up To
+
+- 🔭 Working with systems programming in Rust and C++
+- 🌱 Building web applications using TypeScript and Deno
+- 💡 Exploring Python for various projects
+- ⚡ Scripting with Lua
+
+## 📫 How to reach me
+- Soon
+---
+*Last updated: 2025-02-03*
+
+![Profile Views](https://komarev.com/ghpvc/?username=linhisreal&color=blue)
