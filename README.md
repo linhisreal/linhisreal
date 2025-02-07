@@ -55,13 +55,7 @@ I'm a passionate developer who enjoys working on a wide range of technologies—
 
 ## 🚀 What I'm Up To
 
-- Developing high-performance systems and applications in **C++** and **Rust**
-- Crafting dynamic web applications using **Vue.js**, **NestJS**, and **Ruby on Rails**
-- Building projects in **JavaScript/TypeScript** with **Deno** and **Node.js**
-- Scripting in **Python**, **Lua**, and **Luau** for Roblox
-- Working with **Assembly** for low-level programming and reverse engineering tasks
-- Diving into the world of reverse engineering using **Hydra** and **IDA Pro**
-
+- Nothing for now
 ---
 
 ## 📫 Let’s Connect
