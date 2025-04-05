@@ -21,9 +21,7 @@
 - **Node.js**  
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
----
 
-## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=linhisreal&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=linhisreal&layout=compact&theme=tokyonight)
 
