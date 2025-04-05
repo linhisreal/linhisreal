@@ -1,10 +1,6 @@
 # Hi there! 👋 I'm linhisreal
 
-I'm a passionate developer who enjoys working on a wide range of technologies—from low-level systems programming and reverse engineering to dynamic web apps and game scripting. I love exploring new tools and techniques, whether developing high-performance systems or diving deep into reverse engineering.
-
 ---
-
-## 💻 Tech Stack
 
 ### Programming Languages
 - **C++**  
@@ -35,32 +31,11 @@ I'm a passionate developer who enjoys working on a wide range of technologies—
 - **Node.js**  
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-### Reverse Engineering & Tools
-- **Hydra**  
-  *For reverse engineering and analysis*
-- **IDA Pro**  
-  *For in-depth disassembly and binary analysis*
-
-### Editor
-- **Visual Studio Code**  
-  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
 ---
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=linhisreal&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=linhisreal&layout=compact&theme=tokyonight)
-
----
-
-## 🚀 What I'm Up To
-
-- Nothing for now
----
-
-## 📫 Let’s Connect
-- Soo !
-Feel free to reach out or check out my projects and contributions. I'm always looking to learn and collaborate on innovative projects.
 
 ---
 
