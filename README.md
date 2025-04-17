@@ -14,8 +14,6 @@
   ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 - **NestJS**  
   ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-- **Ruby on Rails**  
-  ![Rails](https://img.shields.io/badge/Ruby%20On%20Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)
 - **Deno**  
   ![Deno](https://img.shields.io/badge/Deno-000000?style=flat-square&logo=deno&logoColor=white)
 - **Node.js**  
