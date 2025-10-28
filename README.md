@@ -1,6 +1,7 @@
 # Hi there, I'm Linh! 
 <div>
 <img src="images/arona_face.gif" width="300" align="right" />
+<br/>
 
 - <img src="https://i.imgur.com/3KyfuCu.png" alt="." width="16" height="16"/> Student from Vietnam 🇻🇳  
 - 🎮 I enjoy playing Open-world, FPS Games, Adventure, Platformer, Rhythm *and some lewd visual novels (shhh, don’t tell anyone!)* <img src="https://i.imgur.com/YN1z4ON.png" alt="."/>    
