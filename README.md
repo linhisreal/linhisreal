@@ -2,6 +2,8 @@
 <div>
 <img src="images/arona_face.gif" width="300" align="right" />
 <br/>
+<!-- Clear floats so headings and section rules don't run beside the right-floated image -->
+<div style="clear: both;"></div>
 
 ## About me
 - <img src="https://i.imgur.com/3KyfuCu.png" alt="." width="16" height="16"/> Student from Vietnam 🇻🇳  
