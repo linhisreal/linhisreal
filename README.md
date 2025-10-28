@@ -43,6 +43,4 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/linhisreal/linhisreal/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ## Thanks for reading ❤️
-<img src="images/b54a8492cba1a192088c875399bf5848.jpg" width="400" align="center" />
-
 ![Profile Views](https://komarev.com/ghpvc/?username=linhisreal&color=blue)
