@@ -2,7 +2,7 @@
 <div>
 <img src="images/arona_face.gif" width="300" align="right" />
 <br/>
-<img src="images/logo-ab.png" width="500" />
+<img src="images/logo-ab.png" width="430" />
 <br/>
 <br/>
 
@@ -15,6 +15,9 @@
 - I’m currently learning <img src="https://go.dev/images/favicon-gopher.png" alt="." width="16" height="16"/> [Go](https://go.dev/), <img src="https://cdn.simpleicons.org/rust/DEA584" alt="." width="16" height="16"/> [Rust](https://rust-lang.org/) and <img src="https://dotnet.microsoft.com/favicon.ico" alt="." width="16" height="16"/> C#
   
 <img src="images/arona_body.png" width="300" align="right" />
+<br/>
+<img src="images/repo.png" width="430" />
+<br/>
 <br/>
 
 - 📘 [***linhisreal/line***](https://github.com/linhisreal/line) <br/>
