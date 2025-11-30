@@ -33,7 +33,7 @@
 </div>
 
 ## Discord
-[![Discord Presence](https://lanyard.cnrad.dev/api/1330792641754828822?idleMessage=Im%20chilling&showDisplayName=true&bg=E0FFFF)](https://discord.com/users/1330792641754828822)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1330792641754828822?idleMessage=Im%20chilling&showDisplayName=true&bg=2b3137)](https://discord.com/users/1330792641754828822)
 
 ## My stats:
 
@@ -50,3 +50,4 @@
 
 ## Thanks for reading ❤️
 ![Profile Views](https://komarev.com/ghpvc/?username=linhisreal&color=blue)
+
