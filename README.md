@@ -29,7 +29,7 @@
 
 <img src="images/arona_banner.gif" width="500" /><br/>
 
-<sub> *“Sensei, let’s conquer Kivotos together.” – Arona* </sub>
+<sub> *“Sensei!” – Arona* </sub>
 </div>
 
 ## Discord
