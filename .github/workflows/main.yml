@@ -1,61 +1,22 @@
-name: Update README cards & Snake
-
-on:
-  schedule:
-    - cron: "0 17 * * *"
-  workflow_dispatch:
+name: generate-snake
 
 permissions:
   contents: write
 
+on:
+  schedule:
+    - cron: "0 0 * * *"  # runs every midnight
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v6
-        with:
-          fetch-depth: 0
-
-      - name: Generate stats card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true
-          path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate top languages card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6
-          path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate pin card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: pin
-          options: username=stats-organization&repo=github-readme-stats
-          path: profile/pin-stats-organization-github-readme-stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Commit README cards
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git add profile/*.svg
-
-          if git diff --cached --quiet; then
-            echo "No changes to README cards."
-          else
-            git commit -m "Update README cards"
-            git push origin HEAD:${{ github.ref_name }}
-          fi
-
+      - name: Checkout repo
+        uses: actions/checkout@v4
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
@@ -63,11 +24,10 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Publish snake
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
-          build_dir: dist
           target_branch: output
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
