@@ -13,7 +13,13 @@ things im developing rn, thats all
 [![Discord Presence](https://lanyard.cnrad.dev/api/1330792641754828822?idleMessage=Im%20chilling&showDisplayName=true&bg=2b3137)](https://discord.com/users/1330792641754828822)
 
 ## My stats:
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=linhisreal)](https://github.com/stats-organization/github-stats-extended)
+<picture>
+  <source
+    srcset="https://github-stats-extended.vercel.app/api?username=linhisreal&show_icons=true&theme=transparent"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-stats-extended.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 ## Commits
 
